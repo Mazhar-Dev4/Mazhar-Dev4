@@ -1,4 +1,22 @@
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=1000&lines=Hi+I'm+Mazhar+Fareed;Full+Stack+Developer;React+%7C+Node+%7C+AWS;Building+Scalable+Web+Apps" />
+<!-- Premium Header Banner -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0F2027,35:203A43,70:2C5364,100:00C9FF&text=Mazhar%20Fareed&fontSize=52&fontAlignY=38&fontColor=FFFFFF&desc=Full%20Stack%20Developer%20%7C%20React%20%7C%20Node.js%20%7C%20AWS&descAlignY=58&descSize=18&animation=fadeIn" width="100%" />
+</p>
+
+<!-- Premium Typing Intro -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=2800&pause=900&color=00E7FF&center=true&vCenter=true&width=900&lines=Building+scalable+web+applications;Crafting+modern+e-commerce+solutions;React+%7C+Node.js+%7C+AWS+%7C+APIs;Turning+ideas+into+production-ready+products" alt="Typing SVG" />
+</p>
+
+<!-- Clean premium mini intro -->
+<p align="center">
+  <img src="https://img.shields.io/badge/Focused%20on-Full%20Stack%20Engineering-0A0F1C?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Open%20to-Collaboration-0A0F1C?style=for-the-badge&logo=handshake&logoColor=white" />
+  <img src="https://img.shields.io/badge/Based%20in-Lahore%2C%20Pakistan-0A0F1C?style=for-the-badge&logo=googlemaps&logoColor=white" />
+</p>
+
+<br/>
+
 # 💫 About Me:
 🔭 I’m currently building scalable web applications and e-commerce solutions using Node.js, React, and AWS<br><br>
 👯 I’m open to collaborating on full stack projects, REST APIs, and modern web applications<br><br>
