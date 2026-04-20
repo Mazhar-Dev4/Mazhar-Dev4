@@ -1,5 +1,9 @@
 # 💫 About Me:
-🔭 I’m currently working on scalable web applications and e-commerce systems using Node.js, React, and AWS<br><br>👯 I’m looking to collaborate on full stack development, REST APIs, and modern web applications<br><br>🤝 I’m looking for help with advanced system design, cloud architecture, and performance optimization<br><br>🌱 I’m currently learning microservices architecture, DevOps practices, and scalable backend systems<br><br>💬 Ask me about Node.js, React, API development, and building real-world production-ready applications<br><br>⚡ Fun fact: I turn ideas into scalable and production-ready systems
+🔭 I’m currently building scalable web applications and e-commerce solutions using Node.js, React, and AWS<br><br>
+👯 I’m open to collaborating on full stack projects, REST APIs, and modern web applications<br><br>
+🌱 I’m currently learning microservices, DevOps practices, and scalable backend architecture<br><br>
+💬 Ask me about Node.js, React, API development, and real-world production-ready applications<br><br>
+⚡ Fun fact: I enjoy turning ideas into clean, scalable, and practical products
 
 
 ## 🌐 Socials:
