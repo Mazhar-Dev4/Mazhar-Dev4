@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Mazhar%20Fareed&fontSize=40&fontColor=ffffff&animation=fadeIn" width="100%"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=1000&lines=Hi+I'm+Mazhar+Fareed;Full+Stack+Developer;React+%7C+Node+%7C+AWS;Building+Scalable+Web+Apps" />
 # 💫 About Me:
 🔭 I’m currently building scalable web applications and e-commerce solutions using Node.js, React, and AWS<br><br>
 👯 I’m open to collaborating on full stack projects, REST APIs, and modern web applications<br><br>
